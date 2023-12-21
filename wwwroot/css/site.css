@@ -1,0 +1,26 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+#WeatherScreen {
+    width: 40vh;
+    height: 67vh;
+    background: violet;
+    text-align: center;
+    margin: auto;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
